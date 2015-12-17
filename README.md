@@ -1,2 +1,7 @@
-# gci15-fossasia
-Redesign for the GCI15, Fossasia webpage
+# Google Code-In 2015
+
+Website for Fossasia's GCI15 page
+
+-----
+
+*This was made before the actual task was changed*
